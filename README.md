@@ -12,6 +12,7 @@ The launcher supports simultaneous execution of multiple viruses, and each virus
 
 **Key Features**:
 - 🖥️ **Interactive GUI Launcher**: Select and run viruses (1–20), view help, or exit cleanly via a `tkinter` interface.
+(*SP2Launcher_V2* Auto Downloads Dependencies)
 - 👻 **20 Unique Pranks**: Each virus has distinct behaviors, visual effects (e.g., glitches, melting, skulls), and sounds (e.g., whispers, screams).
 - 📚 **Integrated Documentation**: Access full details and removal instructions via the help option (7).
 - 🔄 **Concurrent Execution**: Run all 20 viruses at once on your experimental PC, with process management for clean termination.
