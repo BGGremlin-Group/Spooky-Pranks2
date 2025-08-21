@@ -1,4 +1,4 @@
-### Virus 1: Shadowy Scroll Sabotage
+### Virus 1: *Shadowy Scroll Sabotage*
 
 ```python
 #!/usr/bin/env python3
@@ -180,7 +180,7 @@ sys.exit(0)
 ---
 
 
-### Virus 2: Melting Task Manager
+### Virus 2: *Melting Task Manager*
 
 ```python
 #!/usr/bin/env python3
@@ -331,7 +331,7 @@ sys.exit(0)
 ---
 
 
-### Virus 3: Eerie Icon Invasion
+### Virus 3: *Eerie Icon Invasion*
 
 ```python
 #!/usr/bin/env python3
@@ -512,7 +512,7 @@ sys.exit(0)
 ---
 
 
-### Virus 4: Phantom File Flipper
+### Virus 4: *Phantom File Flipper*
 
 ```python
 #!/usr/bin/env python3
@@ -691,7 +691,7 @@ sys.exit(0)
 ---
 
 
-### Virus 5: Glitchy Graveyard Glow
+### Virus 5: *Glitchy Graveyard Glow*
 
 ```python
 #!/usr/bin/env python3
@@ -822,7 +822,7 @@ sys.exit(0)
 ---
 
 
-### Virus 6: Cursed Caps Lock
+### Virus 6: *Cursed Caps Lock*
 
 ```python
 #!/usr/bin/env python3
@@ -939,7 +939,7 @@ sys.exit(0)
 ---
 
 
-### Virus 7: Haunted Hard Drive Hum
+### Virus 7: *Haunted Hard Drive Hum*
 
 ```python
 #!/usr/bin/env python3
@@ -1120,7 +1120,7 @@ sys.exit(0)
 ---
 
 
-### Virus 8: Skull-Filled Search Bar
+### Virus 8: *Skull-Filled Search Bar*
 
 ```python
 #!/usr/bin/env python3
@@ -1252,7 +1252,7 @@ sys.exit(0)
 ---
 
 
-### Virus 9: Wraithful Window Wanderer
+### Virus 9: *Wraithful Window Wanderer*
 
 ```python
 #!/usr/bin/env python3
@@ -1392,7 +1392,7 @@ sys.exit(0)
 ---
 
 
-### Virus 10: Creepy Color Shift
+### Virus 10: *Creepy Color Shift*
 
 ```python
 #!/usr/bin/env python3
@@ -1546,7 +1546,7 @@ sys.exit(0)
 ---
 
 
-### Virus 11: Phantom Folder Flicker
+### Virus 11: *Phantom Folder Flicker*
 
 ```python
 #!/usr/bin/env python3
@@ -1700,7 +1700,7 @@ sys.exit(0)
 ---
 
 
-### Virus 12: Eerie Emoji Explosion
+### Virus 12: *Eerie Emoji Explosion*
 
 ```python
 #!/usr/bin/env python3
@@ -1840,7 +1840,7 @@ sys.exit(0)
 ---
 
 
-### Virus 13: Melting Mouse Mayhem
+### Virus 13: *Melting Mouse Mayhem*
 
 ```python
 #!/usr/bin/env python3
@@ -1978,7 +1978,7 @@ sys.exit(0)
 ---
 
 
-### Virus 14: Ghostly Glitch Grid
+### Virus 14: *Ghostly Glitch Grid*
 
 ```python
 #!/usr/bin/env python3
@@ -2108,7 +2108,7 @@ sys.exit(0)
 ---
 
 
-### Virus 15: Haunted Notification Nudge
+### Virus 15: *Haunted Notification Nudge*
 
 ```python
 #!/usr/bin/env python3
@@ -2233,7 +2233,7 @@ sys.exit(0)
 ---
 
 
-### Virus 16: Spooky Shortcut Shuffle
+### Virus 16: *Spooky Shortcut Shuffle*
 
 ```python
 #!/usr/bin/env python3
@@ -2419,7 +2419,7 @@ sys.exit(0)
 
 ---
 
-### Virus 17: Phantom Power Pulse
+### Virus 17: *Phantom Power Pulse*
 
 ```python
 #!/usr/bin/env python3
@@ -2558,7 +2558,7 @@ sys.exit(0)
 
 ---
 
-### Virus 18: Creepy Clipboard Curse
+### Virus 18: *Creepy Clipboard Curse*
 
 ```python
 #!/usr/bin/env python3
@@ -2686,7 +2686,7 @@ sys.exit(0)
 ---
 
 
-### Virus 19: Glitchy Graveyard Game
+### Virus 19: *Glitchy Graveyard Game*
 
 ```python
 #!/usr/bin/env python3
@@ -2843,7 +2843,7 @@ sys.exit(0)
 
 ---
 
-### Virus 20: Spectral Sound Switcher
+### Virus 20: *Spectral Sound Switcher*
 
 ```python
 #!/usr/bin/env python3
@@ -2992,5 +2992,6 @@ key_thread.join()
 sys.exit(0)
 ```
 ---
-# *BG Gremlin Group*
+### *BG Gremlin Group*
+*Creating Unique Tools for Unique Individuals*
 ---
